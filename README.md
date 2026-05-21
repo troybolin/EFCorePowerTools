@@ -79,6 +79,40 @@ In the ScaffoldingTester solution there are scripts to populate Northwind and Ch
 A massive thanks to [AWS](https://github.com/aws), who sponsored EF Core Power Tools from January 2024 via the [.NET on AWS Open Source Software Fund](https://github.com/aws/dotnet-foss).
 
 <div style="display:inline">
+
+
+
+
+  
+https://lp.instaheadshots.com/?utm_source=google&utm_medium=search-ads&utm_campaign=21113430638&utm…
+
+ 
+
+I went to the above link and uploaded photos from my phone and registered my email. It will generate the headshots with a water mark. 
+
+ 
+
+I screen captured the headshots with the watermark and saved to my device. 
+
+ 
+
+https://thebestpdf.com/remove-watermark?feature=
+
+ 
+
+I then uploaded the photos into this watermark remover (it will only allow 1, but if you refresh the browser it will let you try more). An screen captured without the logo at the bottom. 
+
+
+
+1 Like reaction.
+
+It works with photos that are not selfies t... by Nemecek, Shannon (US N-TEKSYSTEMS)
+Nemecek, Shannon (US N-TEKSYSTEMS)
+10:47 AM
+
+It works with photos that are not selfies too. I uploaded a bunch of group photos and it cut me out
+
+
 <img src="https://raw.githubusercontent.com/ErikEJ/EFCorePowerTools/master/img/aws-logo-small.png" width="200" height="200"/>
 </div>
 
